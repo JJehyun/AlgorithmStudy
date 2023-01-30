@@ -2,7 +2,7 @@
 
 ## 1. 프로젝트를 자신의 계정으로 fork
 
-https://github.com/CMC-12th-Web/Study
+https://github.com/JJehyun/AlgorithmStudy
 
 > `Study` 저장소는 권한이 없기 때문에 코드를 직접 추가할 수 없습니다.
 >
@@ -15,7 +15,7 @@ https://github.com/CMC-12th-Web/Study
 - 터미널에서 다음 명령을 입력합니다.
 
 ```
-ex) git clone -b jeongmin --single-branch <https://github.com/hustle-dev/Study>
+ex) git clone -b jeongmin --single-branch <https://github.com/JJehyun/AlgorithmStudyy>
 ```
 
 ## 3. 기능 구현
