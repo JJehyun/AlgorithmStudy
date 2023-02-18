@@ -8,6 +8,5 @@ function solution(people, limit) {
     }
     count += 1;
   }
-
   return count;
 }

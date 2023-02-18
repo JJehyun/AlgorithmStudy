@@ -2,7 +2,6 @@
 // (1) sum % h === 0 인 값을 찾아 h가 될 수 있는 모든 값을 탐색
 // (2) [(h - 2) * (w - 2) === 노란색 부분이 차지하는 영역]
 // (1) , (2) 조건을 모두 만족하는 w, h 값을 찾는다.
-
 function solution(brown, yellow) {
   var answer = [];
   let sum = brown + yellow;
