@@ -14,7 +14,6 @@ function solution(num) {
 }
 //다른 문제 풀이
 //유클리드 알고리즘 사용 [최소공배수]
-//[2,6,8,14] -> [6,8,14] -> [24, 14] -> [168]
 function getGcd(a, b) {
   if (b === 0) return a;
   return getGcd(b, a % b);
